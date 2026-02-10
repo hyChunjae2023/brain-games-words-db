@@ -1,0 +1,241 @@
+{ "words": [
+  {
+    "id": 1,
+    "level": 1,
+    "word": "DAWN",
+    "korean": "새벽, 동틀 녘",
+    "description": "Dawn(돈): 새벽, 동틀 녘"
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "word": "GLOW",
+    "korean": "빛나다. 광채",
+    "description": "Glow(글로우): 빛나다. 광채"
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "word": "CALM",
+    "korean": "차분한, 고요한",
+    "description": "Calm(캄): 차분한, 고요한"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "word": "PURE",
+    "korean": "순수한",
+    "description": "Pure(퓨어): 순수한"
+  },
+  {
+    "id": 6,
+    "level": 1,
+    "word": "HOPE",
+    "korean": "희망",
+    "description": "Hope(호프): 희망"
+  },
+  {
+    "id": 7,
+    "level": 1,
+    "word": "LOVE",
+    "korean": "사랑",
+    "description": "Love(러브): 사랑"
+  },
+  {
+    "id": 8,
+    "level": 1,
+    "word": "KIND",
+    "korean": "친절한",
+    "description": "Kind(카인드): 친절한"
+  },
+  {
+    "id": 9,
+    "level": 1,
+    "word": "SOUL",
+    "korean": "영혼",
+    "description": "Soul(소울): 영혼"
+  },
+  {
+    "id": 10,
+    "level": 1,
+    "word": "WISH",
+    "korean": "소망, 바라다",
+    "description": "Wish(위시): 소망, 바라다"
+  },
+  {
+    "id": 11,
+    "level": 1,
+    "word": "SING",
+    "korean": "노래하다",
+    "description": "Sing(싱): 노래하다"
+  },
+  {
+    "id": 12,
+    "level": 1,
+    "word": "TALK",
+    "korean": "말하다, 이야기하다",
+    "description": "Talk(토크): 말하다, 이야기하다"
+  },
+  {
+    "id": 13,
+    "level": 1,
+    "word": "WALK",
+    "korean": "걷다",
+    "description": "Walk(워크): 걷다"
+  },
+  {
+    "id": 14,
+    "level": 1,
+    "word": "NICE",
+    "korean": "멋진, 좋은",
+    "description": "Nice(나이스): 멋진, 좋은"
+  },
+  {
+    "id": 15,
+    "level": 1,
+    "word": "GIFT",
+    "korean": "선물",
+    "description": "Gift(기프트): tjsanf"
+  },
+  {
+    "id": 16,
+    "level": 2,
+    "word": "FAMILY",
+    "korean": "가족",
+    "description": "Family(패밀리): 가족"
+  },
+  {
+    "id": 17,
+    "level": 2,
+    "word": "FRIEND",
+    "korean": "친구",
+    "description": "Friend(프랜드): 친구"
+  },
+  {
+    "id": 18,
+    "level": 2,
+    "word": "SIMPLE",
+    "korean": "단순한",
+    "description": "SIMPLE(심플): 단순한"
+  },
+  {
+    "id": 19,
+    "level": 2,
+    "word": "MELODY",
+    "korean": "멜로디, 선율",
+    "description": "Melody(멜로디): 멜로디, 선율"
+  },
+  {
+    "id": 20,
+    "level": 2,
+    "word": "POETRY",
+    "korean": "시, 시적인 것",
+    "description": "Poetry(포에트리): 시, 시적인 것"
+  },
+  {
+    "id": 26,
+    "level": 3,
+    "word": "ALGORITHM",
+    "korean": "문제 해결을 위한 절차나 규칙",
+    "description": "Algorithm(알고리듬): 문제 해결을 위한 절차나 규칙"
+  },
+  {
+    "id": 27,
+    "level": 3,
+    "word": "EARTHLING",
+    "korean": "지구에 사는 사람이나 생물",
+    "description": "Earthling(얼슬링): 지구에 사는 사람이나 생물"
+  },
+  {
+    "id": 28,
+    "level": 3,
+    "word": "AUTHORING",
+    "korean": "저술 활동이나 창작 활동",
+    "description": "Authoring (오써링): 저술 활동이나 창작 활동"
+  },
+  {
+    "id": 29,
+    "level": 3,
+    "word": "ANCHOVIES",
+    "korean": "멸치류에 속하는 작은 생선",
+    "description": "Anchovies(앤초비스): 멸치류에 속하는 작은 생선"
+  },
+  {
+    "id": 30,
+    "level": 3,
+    "word": "BOHEMIANS",
+    "korean": "자유분방한 생활을 하는 예술가나 사람들",
+    "description": "Bohemians(보헤미안스): 자유분방한 생활을 하는 예술가나 사람들"
+  },
+  {
+    "id": 31,
+    "level": 3,
+    "word": "COPYRIGHT",
+    "korean": "저작권",
+    "description": "Copyright(카피라이트): 저작권"
+  },
+  {
+    "id": 32,
+    "level": 3,
+    "word": "CHEMISTRY",
+    "korean": "화학",
+    "description": "Chemistry(케미스트리): 화학"
+  },
+  {
+    "id": 33,
+    "level": 3,
+    "word": "EUPHORIC",
+    "korean": "큰 기쁨의",
+    "description": "Euphoric(유포릭): 큰 기쁨의"
+  },
+  {
+    "id": 34,
+    "level": 3,
+    "word": "DISCOVERY",
+    "korean": "발견",
+    "description": "Discovery(디스커버리): 발견"
+  },
+  {
+    "id": 35,
+    "level": 3,
+    "word": "STORYLINE",
+    "korean": "줄거리",
+    "description": "Storyline(스토리라인): 줄거리"
+  },
+  {
+    "id": 36,
+    "level": 3,
+    "word": "AMBITIOUS",
+    "korean": "야심 있는",
+    "description": "Ambitious(앰비셔스): 야심 있는"
+  },
+  {
+    "id": 37,
+    "level": 3,
+    "word": "UNIVERSAL",
+    "korean": "보편적인",
+    "description": "Universal(유니버설): 보편적인"
+  },
+  {
+    "id": 38,
+    "level": 3,
+    "word": "GLAMORIZE",
+    "korean": "미화하다",
+    "description": "Glamorize(글래머라이즈): 미화하다"
+  },
+  {
+    "id": 39,
+    "level": 3,
+    "word": "SYMBOLIZE",
+    "korean": "상징하다",
+    "description": "Symbolize(심볼라이즈): 상징하다"
+  },
+  {
+    "id": 40,
+    "level": 3,
+    "word": "NIGHTMARE",
+    "korean": "악몽",
+    "description": "Nightmare(나이트메어): 악몽"
+  }
+]
+}
