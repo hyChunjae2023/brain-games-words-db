@@ -6,14 +6,7 @@
     "word": "DAWN",
     "korean": "새벽, 동틀 녘",
     "description": "Dawn(돈): 새벽, 동틀 녘"
-  },
-  {
-    "id": 2,
-    "level": 1,
-    "word": "GLOW",
-    "korean": "빛나다. 광채",
-    "description": "Glow(글로우): 빛나다. 광채"
-  },
+  },  
   {
     "id": 4,
     "level": 1,
