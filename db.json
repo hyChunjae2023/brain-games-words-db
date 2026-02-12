@@ -34,21 +34,7 @@
     "word": "LOVE",
     "korean": "사랑",
     "description": "Love(러브): 사랑"
-  },
-  {
-    "id": 8,
-    "level": 1,
-    "word": "KIND",
-    "korean": "친절한",
-    "description": "Kind(카인드): 친절한"
-  },
-  {
-    "id": 9,
-    "level": 1,
-    "word": "SOUL",
-    "korean": "영혼",
-    "description": "Soul(소울): 영혼"
-  },
+  },  
   {
     "id": 10,
     "level": 1,
