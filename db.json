@@ -15,34 +15,13 @@
     "description": "Love(러브): 사랑"
   },  
   {
-    "id": 10,
-    "level": 1,
-    "word": "WISH",
-    "korean": "소망, 바라다",
-    "description": "Wish(위시): 소망, 바라다"
-  },
-  {
     "id": 11,
     "level": 1,
     "word": "SING",
     "korean": "노래하다",
     "description": "Sing(싱): 노래하다"
   },
-  {
-    "id": 12,
-    "level": 1,
-    "word": "TALK",
-    "korean": "말하다, 이야기하다",
-    "description": "Talk(토크): 말하다, 이야기하다"
-  },
-  {
-    "id": 13,
-    "level": 1,
-    "word": "WALK",
-    "korean": "걷다",
-    "description": "Walk(워크): 걷다"
-  },
-  {
+ {
     "id": 14,
     "level": 1,
     "word": "NICE",
