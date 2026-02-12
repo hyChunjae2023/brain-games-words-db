@@ -1,26 +1,5 @@
 { 
-  "words": [
-  {
-    "id": 1,
-    "level": 1,
-    "word": "DAWN",
-    "korean": "새벽, 동틀 녘",
-    "description": "Dawn(돈): 새벽, 동틀 녘"
-  },  
-  {
-    "id": 4,
-    "level": 1,
-    "word": "CALM",
-    "korean": "차분한, 고요한",
-    "description": "Calm(캄): 차분한, 고요한"
-  },
-  {
-    "id": 5,
-    "level": 1,
-    "word": "PURE",
-    "korean": "순수한",
-    "description": "Pure(퓨어): 순수한"
-  },
+  "words": [  
   {
     "id": 6,
     "level": 1,
