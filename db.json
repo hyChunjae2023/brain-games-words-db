@@ -71,27 +71,6 @@
     "description": "Poetry(포에트리): 시, 시적인 것"
   },
   {
-    "id": 26,
-    "level": 3,
-    "word": "ALGORITHM",
-    "korean": "문제 해결을 위한 절차나 규칙",
-    "description": "Algorithm(알고리듬): 문제 해결을 위한 절차나 규칙"
-  },
-  {
-    "id": 27,
-    "level": 3,
-    "word": "EARTHLING",
-    "korean": "지구에 사는 사람이나 생물",
-    "description": "Earthling(얼슬링): 지구에 사는 사람이나 생물"
-  },
-  {
-    "id": 28,
-    "level": 3,
-    "word": "AUTHORING",
-    "korean": "저술 활동이나 창작 활동",
-    "description": "Authoring (오써링): 저술 활동이나 창작 활동"
-  },
-  {
     "id": 29,
     "level": 3,
     "word": "ANCHOVIES",
